@@ -1,0 +1,132 @@
+{
+  "Packs": [
+    {
+      "id": 2,
+      "PackegeName": "Здоровая семья",
+      "description": "Это тестовый пакет Здоровая мама",
+      "data": "23 Августа 2022",
+      "dataAvaible": "26 Июня 2023",
+      "discount": 10,
+      "price": 2500,
+      "imageURL": "https://image.shutterstock.com/image-photo/spa-treatment-beautiful-female-hands-600w-1853636689.jpg",
+      "doctors": [
+        {
+          "specialty": "Гинеколог",
+          "totalConsultation": "10",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Терапевт",
+          "totalConsultation": "2",
+          "avaibleConsultation": "2"
+        },
+        {
+          "specialty": "Уролог",
+          "totalConsultation": "5",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Хирург",
+          "totalConsultation": "2",
+          "avaibleConsultation": "0"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "PackegeName": "Здоровый малышь",
+      "description": "Это тестовый пакет Здоровая мама",
+      "data": "23 Сентября 2023",
+      "dataAvaible": "26 Июня 2024",
+      "discount": 10,
+      "price": 3500,
+      "imageURL": "https://image.shutterstock.com/image-photo/pink-macaroons-macro-folded-one-600w-1284657763.jpg",
+      "doctors": [
+        {
+          "specialty": "Гинеколог",
+          "totalConsultation": "10",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Терапевт",
+          "totalConsultation": "2",
+          "avaibleConsultation": "2"
+        },
+        {
+          "specialty": "Уролог",
+          "totalConsultation": "5",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Хирург",
+          "totalConsultation": "2",
+          "avaibleConsultation": "0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "PackegeName": "Здоровая семья",
+      "description": "Это тестовый пакет Здоровая мама",
+      "data": "23 Августа 2022",
+      "dataAvaible": "26 Июня 2023",
+      "discount": 10,
+      "price": 2500,
+      "imageURL": "https://image.shutterstock.com/image-photo/healthy-tasty-drink-recipes-that-600w-1510986686.jpg",
+      "doctors": [
+        {
+          "specialty": "Гинеколог",
+          "totalConsultation": "10",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Терапевт",
+          "totalConsultation": "2",
+          "avaibleConsultation": "2"
+        },
+        {
+          "specialty": "Уролог",
+          "totalConsultation": "5",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Хирург",
+          "totalConsultation": "2",
+          "avaibleConsultation": "0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "PackegeName": "Здоровая семья",
+      "description": "Это тестовый пакет Здоровая мама",
+      "data": "23 Августа 2022",
+      "dataAvaible": "26 Июня 2023",
+      "discount": 10,
+      "price": 2500,
+      "imageURL": "https://image.shutterstock.com/image-photo/white-big-puzzles-female-hand-600w-1544932925.jpg",
+      "doctors": [
+        {
+          "specialty": "Гинеколог",
+          "totalConsultation": "10",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Терапевт",
+          "totalConsultation": "2",
+          "avaibleConsultation": "2"
+        },
+        {
+          "specialty": "Уролог",
+          "totalConsultation": "5",
+          "avaibleConsultation": "3"
+        },
+        {
+          "specialty": "Хирург",
+          "totalConsultation": "2",
+          "avaibleConsultation": "0"
+        }
+      ]
+    }
+  ]
+}
